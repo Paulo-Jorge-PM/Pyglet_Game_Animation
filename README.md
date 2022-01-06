@@ -1,5 +1,7 @@
 # Sprite animation in Pyglet
 
+Video preview: https://youtu.be/SRQIoy-nkW8
+
 ![screenshot](pyglet_animation_test.jpg)
 
 I made this when I was studying Pyglet long ago: it is a simple sprite animation and movement test, a draft for a 2D game. Use the keyboard arrows (up, right, down, left) to control the guy on screen and make him walk in different directions. It animates from different sprite in a sheet I download from somewhere (I only made the background sprite, the other sprites credits go to the their creator, no idea who he his but good job).
